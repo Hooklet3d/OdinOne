@@ -95,4 +95,29 @@ Notes:
 
 This part holds the optical end stop for the z axis.
 
+-X Skate-
+  -Quantity X1
+    -Fill 40%
+      -Layers-
+        -Base-2
+        -Outline-2
+        -Top -4
+        
+Notes:
+
+This part holds nylon roller wheels and provides movement on the X axis.  It also serves as the mounting point for the 
+Odin's effector head.
+
+-Skate-
+  -Quantity X4
+    -Fill 40%
+      -Layers-
+        -Base-2
+        -Outline-2
+        -Top -4
+        
+Notes:
+
+This part holds nylon roller wheels and provides movement for the Z and Y axis.  The skate also includes optional preload adjustment.  
+
 ======Frame End========
