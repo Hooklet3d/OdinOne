@@ -1,0 +1,9 @@
+Parts
+
+This folder contains the master parts bill for all Odin iterations.  New branches, modifications or other changes should
+be placed in thier own respective folders.  For example, a modification for the Odin One named 'new spool' should have the following path:
+
+Odin/Parts/OdinOne/Mods/newSpool
+
+
+
