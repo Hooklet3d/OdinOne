@@ -1,0 +1,14 @@
+Odin One Initial
+
+=============================================
+Published under GPL v3
+Organization: Hooklet3d
+Developer: Steven Griffin
+Date 09/2016
+============================================
+
+The Odin One is the initial release of the Odin Reprap 3d printer developed by Hooklet3d
+this initial model is intended to be a 'jumping off' point for future iterations.
+
+This folder will contain the files needed to print a large portion of the Odin One.
+
