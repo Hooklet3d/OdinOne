@@ -83,4 +83,16 @@ Notes:
 
 This part mounts the two Nema steppers to the 2020 uprights.   
 
+-Z EndMount-
+  -Quantity X1
+    -Fill 40%
+      -Layers-
+        -Base-2
+        -Outline-2
+        -Top -4
+        
+Notes:
+
+This part holds the optical end stop for the z axis.
+
 ======Frame End========
