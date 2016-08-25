@@ -69,6 +69,18 @@ warping.
         
 Notes:
 
-This STL contains both the right and left upper 90 corners.  
+This STL contains both the right and left upper 90 corners.
+
+-Z Nema Mount-
+  -Quantity X2
+    -Fill 40%
+      -Layers-
+        -Base-2
+        -Outline-2
+        -Top -4
+        
+Notes:
+
+This part mounts the two Nema steppers to the 2020 uprights.   
 
 ======Frame End========
