@@ -6,6 +6,8 @@ This file outlines the parts needed to print an Odin One,
 here you can find notes on each part and quantity needed
 =========================================================
 
+**The settings below are only recommendations, this may change from printer-to-printer.  Use
+these as a starting point and use your best judgement.  These settings were determined in Simplify 3D
 
 ======Frame Start========
 
@@ -25,6 +27,30 @@ The base side STL is large, make sure you are printing it on a full 200x200 buil
 Depending on how you position the part you will want to make sure your build plate is properly 
 aligned to prevent the printer from leaving the printspace.
 
+-Base Front-
+  -Quantity X1
+    -Fill 40%
+      -Layers-
+        -Base-2
+        -Outline-2
+        -Top -4
+        
+Notes:
 
+The Front STL is to be printed upside down, it has a large surface area so proper heatbed settings should be used to prevent 
+warping.  
+
+-Base Rear-
+  -Quantity X1
+    -Fill 40%
+      -Layers-
+        -Base-2
+        -Outline-2
+        -Top -4
+        
+Notes:
+
+The Rear STL is to be printed upside down, it has a large surface area so proper heatbed settings should be used to prevent 
+warping.
 
 ======Frame End========
