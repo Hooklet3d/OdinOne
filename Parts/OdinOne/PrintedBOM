@@ -1,0 +1,30 @@
+Printed Parts BOM (notes)
+
+
+=========================================================
+This file outlines the parts needed to print an Odin One, 
+here you can find notes on each part and quantity needed
+=========================================================
+
+
+======Frame Start========
+
+-Frame-
+
+-Base Side-
+  -Quantity X2
+  -Fill 30%
+    -Layers-
+      Base-2
+      Outline-2
+      Top -4
+
+Notes:
+
+The base side STL is large, make sure you are printing it on a full 200x200 build space
+Depending on how you position the part you will want to make sure your build plate is properly 
+aligned to prevent the printer from leaving the printspace.
+
+
+
+======Frame End========
