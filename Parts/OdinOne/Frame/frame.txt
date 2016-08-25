@@ -1,4 +1,4 @@
-OdinOne Frame
+Odin One Frame
 
 This folder contains the files needed to print the Odin One Frame
 
