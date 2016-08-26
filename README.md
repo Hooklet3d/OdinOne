@@ -1,10 +1,9 @@
 # Odin One
 
-=============================================
 Published under GPL v3
 Organization: Hooklet3d
 Developer: Steven Griffin
-=============================================
+
 
 #About
 
