@@ -79,6 +79,8 @@ This STL contains both the right and left upper 90 corners.
         -Outline-2
         -Top -4
         
+======Frame End========
+        
 Notes:
 
 This part mounts the two Nema steppers to the 2020 uprights.   
@@ -158,4 +160,3 @@ Notes:
 
 This part holds the optical end stop for the y axis.  It is located under the print bed and aligns the endstop with the end tripper.
 
-======Frame End========
