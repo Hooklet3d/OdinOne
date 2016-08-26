@@ -120,4 +120,42 @@ Notes:
 
 This part holds nylon roller wheels and provides movement for the Z and Y axis.  The skate also includes optional preload adjustment.  
 
+-Z Beam Set-
+  -Quantity X1
+    -Fill 40%
+      -Layers-
+        -Base-2
+        -Outline-2
+        -Top -4
+        
+Notes:
+
+This part Joins the horizontal beam of the Odin One, the print includes the parts for both ends.  Depending on the accuracy of your 
+machine, you may need to adjust the placement of the part when constructing the printer.  
+
+-Y Nema Mount-
+  -Quantity X1
+    -Fill 40%
+      -Layers-
+        -Base-2
+        -Outline-2
+        -Top -4
+        
+Notes:
+
+This part connects the Y Nema motor to the 'Base Rear' part of the Odin One.  It has been made its own part to 
+Make the building process easier.  
+
+-Y End Mount-
+  -Quantity X1
+    -Fill 40%
+      -Layers-
+        -Base-2
+        -Outline-2
+        -Top -4
+        
+Notes:
+
+This part holds the optical end stop for the y axis.  It is located under the print bed and aligns the endstop with the end tripper.
+
 ======Frame End========
