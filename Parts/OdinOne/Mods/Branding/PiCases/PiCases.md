@@ -1,1 +1,1 @@
-Cases for Raspberry Pi with Fan mounts & Hokklet 3D logos.
+Cases for Raspberry Pi with Fan mounts & Hooklet 3D logos.
