@@ -11,30 +11,30 @@
 
 *Y NEMA Mount X1
 *Y End Mount X1
+*Y End Tripper X1
 Y Skate Mount X2
-Y Belt Mount
+*Y Belt Mount
 Z End Mount
 Z NEMA Mount X2
-Z Skate Mount Set X1
+*Z Skate Mount Set X1
 Screw Guide X2
-Z Tripper
-Beam End Cap
+*Z Tripper
+*Beam End Cap
 X NEMA Mount 
-LCD Back 
-LCD Front
-X Belt Extender 
-X End Mount
+*LCD Back 
+*LCD Front
+*X Belt Extender 
+*X End Mount
 PSU Mount Set 
-Board Mount
+*Board Mount
 Spool Mount Set
 MK8 Extruder Mount Set
-
+*Y Idler Set
+X Idler Set
 
 ##Movement##
 
-Y Idler Set
-X Idler Set
-Bed Skate
-Z Skate
-X Skate
+*Bed Skate
+*Z Skate
+*X Skate
 
