@@ -13,7 +13,7 @@ contains the connections for the bed and extruder.
 
 Once the fan is attatched you will be able to access and use it via your slicer or Gcode commands.  
 
-_Note:  Add to your starting script the following:_
+_Note:  Add the following to your starting script:_
 
 ```
 M107; Turn fan off...
