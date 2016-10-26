@@ -1,5 +1,7 @@
 ##MK1 Active Cooler 
 
+**Must be printed with supports**
+
 The MK1 Active Cooler mounts onto the rear of the MK8 Odin Mount.  It uses existing hardware and requires no additional modificaton.
 
 The MK1 is designed to be fitted with a 40mm fan. 
