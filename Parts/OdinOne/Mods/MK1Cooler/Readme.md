@@ -13,8 +13,9 @@ contains the connections for the bed and extruder.
 
 Once the fan is attatched you will be able to access and use it via your slicer or Gcode commands.  
 
-Note:  Add to your starting script the following:
+_Note:  Add to your starting script the following:_
 
 ```
 M107; Turn fan off...
 ```
+This will make sure the fan is off prior to starting warm-up.  Running the fan while warming up can cause issues with heating.  
