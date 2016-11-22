@@ -17,3 +17,7 @@ Infill: 35%;
 Supports: no;
 
 Print time: approx 3 hrs
+
+------------------
+
+Custome modified version of: http://www.thingiverse.com/thing:540716
