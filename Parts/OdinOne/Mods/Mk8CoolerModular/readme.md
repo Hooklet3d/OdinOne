@@ -20,4 +20,4 @@ Print time: approx 3 hrs
 
 ------------------
 
-Custome modified version of: http://www.thingiverse.com/thing:540716
+Custom modified version of: http://www.thingiverse.com/thing:540716
