@@ -3,8 +3,9 @@
 *Front Base X1
 *Rear Base X1
 *Side Base X2
-*Upper 90 Set X1
-
+*Upper 90 Set front X1
+*Upper 90 Set rear X1
+*Mount Center x4
 
 ##Mounting##
 
@@ -14,27 +15,25 @@
 *Y End Tripper X1
 *Y Skate Mount X2
 *Y Belt Mount
-*Z End Mount
 *Z NEMA Mount X2
-*Z Skate Mount Set X1
-*Screw Guide X2
-*Z Tripper
-*Beam End Cap
-*X NEMA Mount 
-*LCD Back 
-*LCD Front
-*X Belt Extender 
-*X End Mount
-*PSU Mount Set 
-*Board Mount
-*Spool Mount Set
-*MK8 Extruder Mount Set
-*Y Idler Set
-X Idler Set
+*Z Skate Mount Set X1 
+*LCD Back X1
+*LCD Front X1
+*LCD Brace X1 
+*X End Mount X1
+*X Belt Plate X1 
+*PSU Mount Set X1
+*Board Mount Base X1
+*Board Mount Lid X1
+*Spool Mount Holder Set X1
+*MK8 Extruder Mount Set X1
+*Y Idler Set X1
+X Idler X1
 
 ##Movement##
 
-*Bed Skate
-*Z Skate
-*X Skate
+*Bed Skate X2
+*UniCap NEMA X1
+*UniCap Idle X1
+*X Skate X1
 
