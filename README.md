@@ -1,4 +1,4 @@
-# Odin One
+# Odin One 3d Printer
 
 Published under GPL v3
 
