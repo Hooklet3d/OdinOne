@@ -1,14 +1,14 @@
-#Docs Needed
+# Docs Needed
 
-##Guide Docs
+## Guide Docs
 
 * Bed Level
 * G-Code Config
 * Belt Adjust
 
 
-##Build Docs
+## Build Docs
 
-*Z Probe Wiring
-*Machine Verification
+* Z Probe Wiring
+* Machine Verification
 
