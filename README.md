@@ -11,13 +11,20 @@ Each folder contains a text file with basic information on how to configure and 
 A primary goal of the Odin One is the create a high quality teaching tool.  Contributing to 3d printing eduction for the public is very important to us.  With that said, please share your contributions and findings with the community. 
 
 ## What's New
-### Feb 2017
+### April 2017
 
-All MK1 changes have been made and tested, currently we are in the process of getting the parts uploaded to the repo and tested.  
+All MK1 parts have been uploaded to the master branch.
+The WIKI is slowly being updated with info and specific guides
 
-In addition to the changes to the machine design, there is also an Auto Bed Level upgrade that will be pushed in the very near future.  
+### What's Next
 
+Moving forward we will be focusing on improving documentation (to include BOM) and including CAD files for all parts.
 
+Currectly the Odin CAD files are SKP (Sketchup) we will be reworking and sharing Fusion360 files for all items.
+
+### TODO
+
+We need to verify and update the documentation (this includes markup on existing .MD files)
 
 
 
