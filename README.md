@@ -20,7 +20,15 @@ A primary goal of the Odin One is the create a high quality teaching tool.  Cont
 * We are looking at making big improvements to the MK8 extruder as well, more on that to come!
 * The current controller case solution is being updated and improved as of now. 
 
-PR: Mercury 1 (
+### May 19 2017
+
+PR: Mercury 1 (PR#66)
+*	Reworked Unicap’s to tighten tolerances and reduce weight
+*	Fixed an alignment issue with the Bed Belt Mount
+*	Reworked Y Idle Mount
+*	Reworked Y NEMA Mount for better fit
+*	Reworked MK8 Mount for better alignment and strength 
+
 
 #### April 2017
 All MK1 parts have been uploaded to the master branch.
