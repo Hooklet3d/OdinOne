@@ -18,7 +18,9 @@ A primary goal of the Odin One is the create a high quality teaching tool.  Cont
 * The team is focusing on producing kits and as we move into the summer show tour
 * It's time to start looking into ways of improving the extruder solution and the x-axis; a key point of improvement is weight reduction.
 * We are looking at making big improvements to the MK8 extruder as well, more on that to come!
-* The current controller case solution is being updated and improved as of now.  
+* The current controller case solution is being updated and improved as of now. 
+
+PR: Mercury 1 (
 
 #### April 2017
 All MK1 parts have been uploaded to the master branch.
